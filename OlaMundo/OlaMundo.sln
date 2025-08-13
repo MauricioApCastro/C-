@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "OlaMundo\OlaMun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sintaxe", "Sintaxe\Sintaxe.csproj", "{C1F543EB-A87E-4981-9A54-58AE5CA30045}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorMenor", "MaiorMenor\MaiorMenor.csproj", "{B9ECF503-D832-4C18-B7B3-B4EAB4F10241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C1F543EB-A87E-4981-9A54-58AE5CA30045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F543EB-A87E-4981-9A54-58AE5CA30045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F543EB-A87E-4981-9A54-58AE5CA30045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9ECF503-D832-4C18-B7B3-B4EAB4F10241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ECF503-D832-4C18-B7B3-B4EAB4F10241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9ECF503-D832-4C18-B7B3-B4EAB4F10241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9ECF503-D832-4C18-B7B3-B4EAB4F10241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
